@@ -1,5 +1,4 @@
-This corpus consists of collection of 78,376 debates from October 2007 until November 2017 drawn from  
-<a href="http://www.debate.org/">debate.org</a> 
+This corpus consists of collection of 78,376 debates from October 2007 until November 2017 drawn from <a href="http://www.debate.org/">debate.org</a> 
 along with comprehensive information about 45,348 users who have participated in debates either as a debater or as an 
 audience (i.e. by voting or commenting).
 
@@ -13,7 +12,7 @@ JSON file contains a Python dictionary that assigns a
 <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.  <br>
 <li> <a href="users.json">users.json</a> This JSON file
 includes a Python dictionary representation of each user in the dataset.
-<br><br>
+<br>
 
 This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <a href="readme.md">readme</a> file.
 <br><br>
