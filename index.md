@@ -98,7 +98,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         (ACL), 2019. <br>
         [<a href="https://aclanthology.org/P19-1057">paper</a>]
         [<a href="publications/debate_corpus.bib">bib</a>]
-        [<a href="ddo.html">dataset</a>]
+        [<a href="ddo.md">dataset</a>]
     </li>
     <br>
     <li>
@@ -107,7 +107,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         In Proceedings of the 6th Workshop in Argumentation Mining 2019. <br>
         [<a href="https://aclanthology.org/W19-4519">paper</a>]
         [<a href="publications/debate_undecided.bib">bib</a>]
-        [<a href="ddo.html">dataset</a>]
+        [<a href="ddo.md">dataset</a>]
     </li>
     <br>
     <li>
@@ -116,7 +116,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         In Proceedings of the World Wide Web Conference (WWW), 2019. <br>
         [<a href="https://dl.acm.org/doi/10.1145/3308558.3313676">paper</a>]
         [<a href="publications/modeling_factors.bib">bib</a>]
-        [<a href="ddo.html">dataset</a>]
+        [<a href="ddo.md">dataset</a>]
         <br>
         <a href="https://news.cornell.edu/stories/2019/05/win-online-debates-social-networks-worth-thousand-words">
             <b>Cornell Chronicle Story</b> </a><br>
@@ -129,7 +129,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         Computational Linguistics: Human Language Technologies (NAACL), 2018. <br>
         [<a href="https://aclanthology.org/N18-1094/">paper</a>]
         [<a href="publications/prior_beliefs.bib">bib</a>]
-        [<a href="ddo.html">dataset</a>]
+        [<a href="ddo.md">dataset</a>]
     </li>
     <br>
     <li>
