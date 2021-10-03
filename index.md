@@ -6,34 +6,42 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 <h2>News</h2>
 <ul>
-    <li> August 2020: I will be joining Stanford NLP as a Postdoc in Spring 2021.</li>
+    <li> June 2020: I joined Stanford NLP as a Postdoc.</li>
     <li> July 2020: I am co-teaching an CS4740 with my advisor in Fall 2020.</li>
     <li> Jan 2020: I am interning at Google AI Research in Summer 2020.</li>
-    <li> September 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
+    <li> Sep 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
 
 </ul>
 
 <h2>Publications</h2>
 
-<ul>
+<ol type="1">
+    <li>
+        <b>On the Opportunities and Risks of Foundation Models</b><br>
+        [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
+        [<a href="publications/opportunities.bib">bib</a>]
+    </li>
+    <br>
+    <li>
+        <b>Towards Understanding Persuasion in Computational Argumentation</b><br>
+        PhD Dissertation<br>
+        [<a href="https://ecommons.cornell.edu/handle/1813/109733">paper</a>]
+        [<a href="publications/thesis.bib">bib</a>]
+    </li>
+    <br>
     <li>
         <b>Leveraging Topic Relatedness for Argument Persuasion</b>
          <br>Xinran Zhao, <b>Esin Durmus</b>, Hongming Zhang, Claire Cardie <br>
-        [<a href="https://aclanthology.org/2021.findings-acl.386.pdf">paper</a>]
+         In Findings of ACL, 2021. <br>
+        [<a href="https://aclanthology.org/2021.findings-acl.386.pdf">paper</a>]       
+        [<a href="publications/topic_relatedness.bib">bib</a>]
     </li>
+    <br>
     <li>
-        <b>On the Opportunities and Risks of Foundation Models</b>
-        [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
-    </li>
-    <li>
-        <b>Towards Understanding Persuasion in Computational Argumentation</b>
-        <b>PhD Dissertation</b>
-        [<a href="https://ecommons.cornell.edu/handle/1813/109733">paper</a>]
-    </li>
-    <li>
-        <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b>
-         <br> <a href="https://gem-benchmark.com/team">Team </a> <br>
+        <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b><br>
+        [<a href="https://gem-benchmark.com/team">Team</a>]
         [<a href="https://arxiv.org/abs/2102.01672">paper</a>]
+        [<a href="publications/gem.bib">bib</a>]
         [<a href="https://gem-benchmark.com">website</a>]
     </li>
     <br>
@@ -60,6 +68,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         2020. <br>
         [<a href="https://aclanthology.org/2020.acl-main.454.pdf">paper</a>]
         [<a href="https://github.com/esdurmus/feqa">code</a>]
+        [<a href="publications/feqa.bib">bib</a>]
     </li>
     <br>
     <li><b>The Role of Pragmatic and Discourse Context in Determining Argument Impact</b><br>
@@ -140,7 +149,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         [<a href="publications/tac.pdf">paper</a>]
         [<a href="publications/tac.bib">bib</a>]
     </li>
-</ul>
+</ol>
 
 <h2>Published Datasets</h2>
 <ul>
@@ -170,7 +179,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 <h2>Industry Experience</h2>
 <ul>
-    <li> Research Intern in Google AI Research. Summer 2020 - Present.</li>
+    <li> Research Intern in Google AI Research. Summer 2020 - December 2020.</li>
     <li> Applied Scientist Intern in Amazon AWS. Summer 2019 - December 2019.</li>
     <li>Applied Scientist Intern in Amazon Alexa. Summer 2017.</li>
 </ul>
