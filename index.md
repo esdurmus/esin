@@ -17,6 +17,20 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 <ul>
     <li>
+        <b>Leveraging Topic Relatedness for Argument Persuasion</b>
+         <br>Xinran Zhao, <b>Esin Durmus</b>, Hongming Zhang, Claire Cardie <br>
+        [<a href="https://aclanthology.org/2021.findings-acl.386.pdf">paper</a>]
+    </li>
+    <li>
+        <b>On the Opportunities and Risks of Foundation Models</b>
+        [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
+    </li>
+    <li>
+        <b>Towards Understanding Persuasion in Computational Argumentation</b>
+        <b>PhD Dissertation</b>
+        [<a href="https://ecommons.cornell.edu/handle/1813/109733">paper</a>]
+    </li>
+    <li>
         <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b>
          <br> <a href="https://gem-benchmark.com/team">Team </a> <br>
         [<a href="https://arxiv.org/abs/2102.01672">paper</a>]
@@ -27,7 +41,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization </b><br>
         Faisal Ladhak, <b>Esin Durmus </b>, Claire Cardie and Kathleen McKeown. <br>
         In Findings of EMNLP, 2020. <br>
-        [<a href="https://arxiv.org/pdf/2010.03093.pdf">paper</a>]
+        [<a href="https://aclanthology.org/2020.findings-emnlp.360">paper</a>]
         [<a href="https://github.com/esdurmus/Wikilingua">data</a>]
         [<a href="publications/wikilingua.bib">bib</a>]
     </li>
@@ -35,7 +49,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li><b>Exploring the Role of Argument Structure in Online Debate Persuasion</b><br>
         Jialu Li, <b>Esin Durmus</b> and Claire Cardie.<br>
         In Proceedings of EMNLP, 2020. <br>
-        [<a href="https://arxiv.org/abs/2010.03538.pdf">paper</a>]
+        [<a href="https://aclanthology.org/2020.emnlp-main.716">paper</a>]
         [<a href="publications/arg_struc_pers.bib">bib</a>]
     </li>
     <br>
@@ -44,7 +58,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b>, He He and Mona Diab. <br>
         In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL),
         2020. <br>
-        [<a href="publications/faithfulness_qa.pdf">paper</a>]
+        [<a href="https://aclanthology.org/2020.acl-main.454.pdf">paper</a>]
         [<a href="https://github.com/esdurmus/feqa">code</a>]
     </li>
     <br>
@@ -52,7 +66,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
         In Proceedings of the Conference on Empirical Methods in Natural Language Processing
         (EMNLP), 2019. <br>
-        [<a href="publications/arg_impact.pdf">paper</a>]
+        [<a href="https://aclanthology.org/D19-1568/">paper</a>]
         [<a href="publications/arg_impact.bib">bib</a>]
     </li>
     <br>
@@ -63,7 +77,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
         In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
         (ACL), 2019. <br>
-        [<a href="publications/arg_struc.pdf">paper</a>]
+        [<a href="https://aclanthology.org/P19-1456/">paper</a>]
         [<a href="publications/arg_struc.bib">bib</a>]
     </li>
     <br>
@@ -73,7 +87,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b> and Claire Cardie. <br>
         In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
         (ACL), 2019. <br>
-        [<a href="publications/debate_corpus.pdf">paper</a>]
+        [<a href="https://aclanthology.org/P19-1057">paper</a>]
         [<a href="publications/debate_corpus.bib">bib</a>]
         [<a href="ddo.html">dataset</a>]
     </li>
@@ -82,7 +96,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Persuasion of the Undecided: Language vs. the Listener </b><br>
         Liane Longpre, <b>Esin Durmus</b> and Claire Cardie. <br>
         In Proceedings of the 6th Workshop in Argumentation Mining 2019. <br>
-        [<a href="publications/debate_undecided.pdf">paper</a>]
+        [<a href="https://aclanthology.org/W19-4519">paper</a>]
         [<a href="publications/debate_undecided.bib">bib</a>]
         [<a href="ddo.html">dataset</a>]
     </li>
@@ -91,7 +105,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b> Modeling the Factors of User Success in Online Debate </b> <br>
         <b>Esin Durmus</b> and Claire Cardie. <br>
         In Proceedings of the World Wide Web Conference (WWW), 2019. <br>
-        [<a href="publications/modeling_factors.pdf">paper</a>]
+        [<a href="https://dl.acm.org/doi/10.1145/3308558.3313676">paper</a>]
         [<a href="publications/modeling_factors.bib">bib</a>]
         [<a href="ddo.html">dataset</a>]
         <br>
@@ -104,7 +118,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b> and Claire Cardie. <br>
         In Proceedings of the Conference of the North American Chapter of the Association for
         Computational Linguistics: Human Language Technologies (NAACL), 2018. <br>
-        [<a href="publications/prior_beliefs.pdf">paper</a>]
+        [<a href="https://aclanthology.org/N18-1094/">paper</a>]
         [<a href="publications/prior_beliefs.bib">bib</a>]
         [<a href="ddo.html">dataset</a>]
     </li>
@@ -115,7 +129,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Esin Durmus</b> and Claire Cardie. <br>
         In Proceedings of PEOPLES2018 workshop (co-organized with NAACL) on computational modeling
         of peoples opinions, personality, and emotions in social media. <br>
-        [<a href="publications/abortion.pdf">paper</a>]
+        [<a href="https://aclanthology.org/W18-1110">paper</a>]
         [<a href="publications/abortion.bib">bib</a>]
     </li>
     <br>
@@ -135,7 +149,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li><b><a
             href="ddo.html"> DDO (Debate.org) corpus</a></b></li>
     <li>
-        <b>Kialo Dataset:</b> get access via <a href="mailto:ed459@cornell.edu">email</a>.
+        <b>Kialo Dataset:</b> get access via <a href="mailto:esdurmus@stanford.edu">email</a>.
     </li>
 </ul>
            
