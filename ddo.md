@@ -2,19 +2,19 @@ This corpus consists of collection of 78,376 debates from October 2007 until Nov
 along with comprehensive information about 45,348 users who have participated in debates either as a debater or as an 
 audience (i.e. by voting or commenting).
 
-DDO dataset is described in detail in [1] and [2].
+<a href="ddo.zip">DDO dataset</a> is described in detail in [1] and [2].
 To recreate the dataset, you'll need to download the
 following two files:<br>
 
 <ul>
-<li> <a href="debates.json">debates.json</a> This
+  <li> <b>debates.json:</b> This
 JSON file contains a Python dictionary that assigns a 
 <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.  <br>
-<li> <a href="users.json">users.json</a> This JSON file
+<li> <b>users.json:</b> This JSON file
 includes a Python dictionary representation of each user in the dataset.
 <br>
 
-This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <a href="readme.md">readme</a> file.
+This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.
 <br><br>
 </ul>
 
