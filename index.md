@@ -139,6 +139,25 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     </li>
 </ul>
            
+<h2>Teaching</h2>
+<ul>
+    <li><b>Instructor</b> for Introduction to Natural Language Processing, Cornell University. Fall
+        2020.
+    </li>
+    <li><b>Teaching Assistant</b> for Introduction to Natural Language Processing, Cornell
+        University. Fall 2016, Fall 2017, Fall 2019.
+    </li>
+    <li><b>Teaching Assistant</b> for Machine Learning for Data Science, Cornell University. Spring
+        2016.
+    </li>
+    <li><b>Teaching Assistant </b> for Introduction to Web Design, Cornell University. Fall 2015.
+    </li>
+</ul>
 
-                    
+<h2>Industry Experience</h2>
+<ul>
+    <li> Research Intern in Google AI Research. Summer 2020 - Present.</li>
+    <li> Applied Scientist Intern in Amazon AWS. Summer 2019 - December 2019.</li>
+    <li>Applied Scientist Intern in Amazon Alexa. Summer 2017.</li>
+</ul>
 
