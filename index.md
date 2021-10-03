@@ -1,37 +1,144 @@
-## Welcome to GitHub Pages
+# Esin Durmus
+**Contact:** esdurmus AT stanford DOT edu
 
-You can use the [editor on GitHub](https://github.com/esdurmus/esindurmus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto, Dan Jurafsky and Chris Manning. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as detection of hate speech in social media platforms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h2>News</h2>
+<ul>
+    <li> August 2020: I will be joining Stanford NLP as a Postdoc in Spring 2021.</li>
+    <li> July 2020: I am co-teaching an CS4740 with my advisor in Fall 2020.</li>
+    <li> Jan 2020: I am interning at Google AI Research in Summer 2020.</li>
+    <li> September 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h2>Publications</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<ul>
+    <li>
+        <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b>
+         <br> <a href="https://gem-benchmark.com/team">Team </a> <br>
+        [<a href="https://arxiv.org/abs/2102.01672">paper</a>]
+        [<a href="https://gem-benchmark.com">website</a>]
+    </li>
+    <br>
+    <li>
+        <b>WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization </b><br>
+        Faisal Ladhak, <b>Esin Durmus </b>, Claire Cardie and Kathleen McKeown. <br>
+        In Findings of EMNLP, 2020. <br>
+        [<a href="https://arxiv.org/pdf/2010.03093.pdf">paper</a>]
+        [<a href="https://github.com/esdurmus/Wikilingua">data</a>]
+        [<a href="publications/wikilingua.bib">bib</a>]
+    </li>
+    <br>
+    <li><b>Exploring the Role of Argument Structure in Online Debate Persuasion</b><br>
+        Jialu Li, <b>Esin Durmus</b> and Claire Cardie.<br>
+        In Proceedings of EMNLP, 2020. <br>
+        [<a href="https://arxiv.org/abs/2010.03538.pdf">paper</a>]
+        [<a href="publications/arg_struc_pers.bib">bib</a>]
+    </li>
+    <br>
+    <li><b>FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive
+        Summarization</b><br>
+        <b>Esin Durmus</b>, He He and Mona Diab. <br>
+        In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL),
+        2020. <br>
+        [<a href="publications/faithfulness_qa.pdf">paper</a>]
+        [<a href="https://github.com/esdurmus/feqa">code</a>]
+    </li>
+    <br>
+    <li><b>The Role of Pragmatic and Discourse Context in Determining Argument Impact</b><br>
+        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
+        In Proceedings of the Conference on Empirical Methods in Natural Language Processing
+        (EMNLP), 2019. <br>
+        [<a href="publications/arg_impact.pdf">paper</a>]
+        [<a href="publications/arg_impact.bib">bib</a>]
+    </li>
+    <br>
+    <li>
+        <b> Determining Relative Argument Specificity and Stance for Complex Argumentative
+            Structures </b>
+        <br>
+        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
+        In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
+        (ACL), 2019. <br>
+        [<a href="publications/arg_struc.pdf">paper</a>]
+        [<a href="publications/arg_struc.bib">bib</a>]
+    </li>
+    <br>
+    <li>
+        <b>A Corpus for Modeling User and Language Effects in Argumentation on Online Debating</b>
+        <br>
+        <b>Esin Durmus</b> and Claire Cardie. <br>
+        In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
+        (ACL), 2019. <br>
+        [<a href="publications/debate_corpus.pdf">paper</a>]
+        [<a href="publications/debate_corpus.bib">bib</a>]
+        [<a href="ddo.html">dataset</a>]
+    </li>
+    <br>
+    <li>
+        <b>Persuasion of the Undecided: Language vs. the Listener </b><br>
+        Liane Longpre, <b>Esin Durmus</b> and Claire Cardie. <br>
+        In Proceedings of the 6th Workshop in Argumentation Mining 2019. <br>
+        [<a href="publications/debate_undecided.pdf">paper</a>]
+        [<a href="publications/debate_undecided.bib">bib</a>]
+        [<a href="ddo.html">dataset</a>]
+    </li>
+    <br>
+    <li>
+        <b> Modeling the Factors of User Success in Online Debate </b> <br>
+        <b>Esin Durmus</b> and Claire Cardie. <br>
+        In Proceedings of the World Wide Web Conference (WWW), 2019. <br>
+        [<a href="publications/modeling_factors.pdf">paper</a>]
+        [<a href="publications/modeling_factors.bib">bib</a>]
+        [<a href="ddo.html">dataset</a>]
+        <br>
+        <a href="https://news.cornell.edu/stories/2019/05/win-online-debates-social-networks-worth-thousand-words">
+            <b>Cornell Chronicle Story</b> </a><br>
+    </li>
+    <br>
+    <li>
+        <b>Exploring the Role of Prior Beliefs for Argument Persuasion</b><br>
+        <b>Esin Durmus</b> and Claire Cardie. <br>
+        In Proceedings of the Conference of the North American Chapter of the Association for
+        Computational Linguistics: Human Language Technologies (NAACL), 2018. <br>
+        [<a href="publications/prior_beliefs.pdf">paper</a>]
+        [<a href="publications/prior_beliefs.bib">bib</a>]
+        [<a href="ddo.html">dataset</a>]
+    </li>
+    <br>
+    <li>
+        <b>Understanding the Effect of Gender and Stance on Opinion Expression in Debates on
+            "Abortion”.</b> <br>
+        <b>Esin Durmus</b> and Claire Cardie. <br>
+        In Proceedings of PEOPLES2018 workshop (co-organized with NAACL) on computational modeling
+        of peoples opinions, personality, and emotions in social media. <br>
+        [<a href="publications/abortion.pdf">paper</a>]
+        [<a href="publications/abortion.bib">bib</a>]
+    </li>
+    <br>
+    <li><b>Cornell Belief and Sentiment System at TAC 2016 </b><br>
+        Vlad Niculae, Kai Sun, Xilun Chen, Yao Cheng, Xinya Du,<b> Esin Durmus</b>, Arzoo Katiyar
+        and Claire Cardie. <br>
+        Text Analysis Conference (TAC), 2016. <br>
+        [<a href="publications/tac.pdf">paper</a>]
+        [<a href="publications/tac.bib">bib</a>]
+    </li>
+</ul>
 
-- Bulleted
-- List
+<h2>Published Datasets</h2>
+<ul>
+    <li>
+        <b><a href="https://github.com/esdurmus/Wikilingua">WikiLingua</a></b></li>
+    <li><b><a
+            href="ddo.html"> DDO (Debate.org) corpus</a></b></li>
+    <li>
+        <b>Kialo Dataset:</b> get access via <a href="mailto:ed459@cornell.edu">email</a>.
+    </li>
+</ul>
+           
 
-1. Numbered
-2. List
+                    
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esdurmus/esindurmus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
