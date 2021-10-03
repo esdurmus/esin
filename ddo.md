@@ -2,7 +2,7 @@ This corpus consists of collection of 78,376 debates from October 2007 until Nov
 along with comprehensive information about 45,348 users who have participated in debates either as a debater or as an 
 audience (i.e. by voting or commenting).
 
-<a href="ddo.zip">DDO dataset</a> is described in detail in [1] and [2].
+<a href="https://drive.google.com/drive/folders/1xZw7OUl1nD5CihWubxsqGxyoVhj0a-5k?usp=sharing">DDO dataset</a> is described in detail in [1] and [2].
 To recreate the dataset, you'll need to download the
 following two files:<br>
 
