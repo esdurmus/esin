@@ -11,7 +11,7 @@ following two files:<br>
 
 <br>
 This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.</li>
-<br>
+<br><br>
 
 <b>References</b>
 <ul> 
