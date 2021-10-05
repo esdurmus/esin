@@ -1,5 +1,5 @@
 # Esin Durmus
-<img src="esin.jpeg" alt="esin" style="width:100;"/>
+<img src="esin.jpeg" alt="esin" style="width:50;"/>
 
 **Contact:** esdurmus AT stanford DOT edu
 
