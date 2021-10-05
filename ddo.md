@@ -12,7 +12,7 @@ following two files:<br>
 <li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset. <br> This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.
 </ul>
 
-<b>References</b><br>
+**References**
 <ul> [1]  Esin Durmus and Claire Cardie. 2019. 
 A Corpus for Modeling User and Language Effects in Argumentation on Online Debating.
 <i>In Proceedings of the 57th Conference of the Association for Computational Linguistics</i>.  
