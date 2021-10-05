@@ -8,7 +8,8 @@ following two files:
 
 <ul> 
 <li> debates.json: This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate. </li>
-<li> users.json: This JSON file includes a Python dictionary representation of each user in the dataset. </li> </ul>
+<li> users.json: This JSON file includes a Python dictionary representation of each user in the dataset. </li> 
+</ul>
 
 <br>
 This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.
