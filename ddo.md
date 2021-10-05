@@ -7,24 +7,26 @@ To recreate the dataset, you'll need to download the
 following two files:<br>
 
 <ul> 
-<li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a 
-<i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.  <br> 
-<li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset. <br> This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.
+<li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate. <br> </li>
+<li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset. <br> This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file. </li>
 </ul>
 
 
 **References**
-<ul> [1]  Esin Durmus and Claire Cardie. 2019. 
+<ul> 
+<li>[1]  Esin Durmus and Claire Cardie. 2019. 
 A Corpus for Modeling User and Language Effects in Argumentation on Online Debating.
 <i>In Proceedings of the 57th Conference of the Association for Computational Linguistics</i>.  
-Florence, Italy. Association for Computational Linguistics.  
+Florence, Italy. Association for Computational Linguistics. </li>
 </ul>
 
 <ul>
+<li>
 [2] Esin Durmus and Claire Cardie. 2018.
 Exploring the Role of Prior Beliefs for Argument Persuasion.
 <i> In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
 </i>. 
+</li>
 </ul>
 
 
