@@ -1,6 +1,7 @@
 <img src="esin.jpeg" alt="esin" style="width:10cm;"/>
 
 **Contact:** esdurmus AT stanford DOT edu
+
 <a href="https://twitter.com/esindurmusnlp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @esindurmusnlp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto, Dan Jurafsky and Chris Manning. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as detection of hate speech in social media platforms.
