@@ -20,9 +20,7 @@ A Corpus for Modeling User and Language Effects in Argumentation on Online Debat
 Florence, Italy. Association for Computational Linguistics. </li>
 <li> [2] Esin Durmus and Claire Cardie. 2018.
 Exploring the Role of Prior Beliefs for Argument Persuasion.
-<i> In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).
-</i>. 
-</li>
+<i> In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL).</i>.</li>
 </ul>
 
 <b>License</b><br>
