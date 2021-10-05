@@ -1,5 +1,5 @@
 # Esin Durmus
-![Esin Durmus](esin.jpeg)
+<img src="esin.jpeg" alt="esin" style="width:100;"/>
 
 **Contact:** esdurmus AT stanford DOT edu
 
