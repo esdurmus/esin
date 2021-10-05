@@ -11,8 +11,9 @@ following two files:<br>
 <li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset. <br> 
 </ul>
 
+<br>
 This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.</li>
-
+<br>
 
 **References**
 <ul> 
