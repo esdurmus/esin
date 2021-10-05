@@ -4,11 +4,13 @@ audience (i.e. by voting or commenting).
 
 <a href="https://drive.google.com/drive/folders/1xZw7OUl1nD5CihWubxsqGxyoVhj0a-5k?usp=sharing">DDO dataset</a> is described in detail in [1] and [2].
 To recreate the dataset, you'll need to download the
-following two files:<br>
+following two files:
 
 <ul> 
-<li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.</li>
+<li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.
+</li>
 <li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset.
+</li>
 </ul>
 
 <br>
