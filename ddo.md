@@ -41,4 +41,3 @@ copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-s
 If you use any of this data in your work, please reference 
 <a href="http://www.debate.org/">debate.org</a> and cite the references (described above).
 </ul>
-<hr> </hr><br>
