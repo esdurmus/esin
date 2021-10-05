@@ -6,16 +6,14 @@ audience (i.e. by voting or commenting).
 To recreate the dataset, you'll need to download the
 following two files:<br>
 
-<ul> 
-<li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.</li>
-<li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset. <br> 
-</ul>
+<ul> <li> <b>debates.json:</b> This JSON file contains a Python dictionary that assigns a  <i>debate name</i> --- a unique name for each debate --- to comprehensive information about that debate.</li>
+<li> <b>users.json:</b> This JSON file includes a Python dictionary representation of each user in the dataset.</ul>
 
 <br>
 This dataset includes very comprehensive information about the debates and the users. For more information about the content of the dataset and how to use it, please refer to the <b>readme</b> file.</li>
 <br>
 
-**References**
+<b>References</b>
 <ul> 
 <li>[1]  Esin Durmus and Claire Cardie. 2019. 
 A Corpus for Modeling User and Language Effects in Argumentation on Online Debating.
