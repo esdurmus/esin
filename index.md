@@ -1,6 +1,6 @@
 <img src="esin.jpeg" alt="esin" style="width:10cm;"/>
 
-**Contact:** esdurmus AT stanford DOT edu
+**Contact:** esindurmus AT cs DOT stanford DOT edu
 
 <p><a href="https://twitter.com/esindurmusnlp?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @esindurmusnlp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
