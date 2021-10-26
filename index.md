@@ -10,7 +10,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 <h2>News</h2>
 <ul>
     <li> June 2020: I joined Stanford NLP as a Postdoc.</li>
-    <li> July 2020: I am co-teaching an CS4740 with my advisor in Fall 2020.</li>
+    <li> July 2020: I am co-teaching CS4740 with my advisor in Fall 2020.</li>
     <li> Jan 2020: I am interning at Google AI Research in Summer 2020.</li>
     <li> Sep 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
 
