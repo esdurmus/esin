@@ -10,7 +10,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 <h2>News</h2>
 <ul>
     <li> June 2020: I joined Stanford NLP as a Postdoc.</li>
-    <li> July 2020: I am co-teaching CS4740 with my advisor in Fall 2020.</li>
+    <li> July 2020: I am co-teaching CS4740 in Fall 2020.</li>
     <li> Jan 2020: I am interning at Google AI Research in Summer 2020.</li>
     <li> Sep 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
 
@@ -19,6 +19,21 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 <h2>Publications</h2>
 
 <ol type="1">
+    <li>
+        <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
+        <br> <b> Esin Durmus </b>, Faisal Ladhak, Tatsunori Hashimoto <br>
+        To appear in ACL 2022 Main conference. <br>
+    </li>
+    <li>
+        <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
+        <br> Faisal Ladhak, <b> Esin Durmus </b>, He He, Claire Cardie, Kathleen McKeown <br>
+        To appear in ACL 2022 Main conference. <br>
+    </li>
+    <li>
+        <b>Language Modeling via Stochastic Processes</b>
+        <br> Rose E Wang, <b> Esin Durmus </b>, Noah Goodman, Tatsunori Hashimoto <br>
+        To appear in ICLR 2022. <br>
+    </li>
     <li>
         <b>On the Opportunities and Risks of Foundation Models</b><br>
         [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
