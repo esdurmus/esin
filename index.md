@@ -2,7 +2,7 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
-Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto and Dan Jurafsky. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as detection of racism on social media platforms.
+Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto and Dan Jurafsky. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as undersanding the dynamics of persuasion and detection of racism on social media platforms.
 
 
 <h2>News</h2>
