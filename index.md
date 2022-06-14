@@ -29,7 +29,6 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
         <br> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br>
         In Proceedings of ACL 2022 Main conference. <br><br>
-        [<a href="https://aclanthology.org/2022.acl-long.100/">paper</a>]
         
     </li>
     <li>
