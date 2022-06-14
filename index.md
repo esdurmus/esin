@@ -15,161 +15,158 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 </ul>
 
+
 <h2>Publications</h2>
 
-<!-- <ol type="1">
-    
+<ol type="1">
     <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
-        <br> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br>
-        In Proceedings of ACL 2022 Main conference. <br> <br>
-        [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>]
+        <br /> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
+        To appear in ACL 2022 Main conference. <br /> <br />
     </li>
     <li>
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
-        <br> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br>
-        In Proceedings of ACL 2022 Main conference. <br><br>
-        
+        <br /> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br />
+        To appear in ACL 2022 Main conference. <br /><br />
     </li>
     <li>
         <b>Language Modeling via Stochastic Processes</b>
-        <br> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br>
-        In Proceedings of ICLR 2022. <br><br>
+        <br /> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br />
+        To appear in ICLR 2022. <br /><br />
     </li>
     <li>
-        <b>On the Opportunities and Risks of Foundation Models</b><br>
+        <b>On the Opportunities and Risks of Foundation Models</b><br />
         [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
         [<a href="publications/opportunities.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li>
-        <b>Towards Understanding Persuasion in Computational Argumentation</b><br>
-        PhD Dissertation<br>
+        <b>Towards Understanding Persuasion in Computational Argumentation</b><br />
+        PhD Dissertation<br />
         [<a href="https://ecommons.cornell.edu/handle/1813/109733">paper</a>]
         [<a href="publications/thesis.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li>
         <b>Leveraging Topic Relatedness for Argument Persuasion</b>
-         <br>Xinran Zhao, <b>Esin Durmus</b>, Hongming Zhang, Claire Cardie <br>
-         In Findings of ACL, 2021. <br>
+         <br />Xinran Zhao, <b>Esin Durmus</b>, Hongming Zhang, Claire Cardie <br />
+         In Findings of ACL, 2021. <br />
         [<a href="https://aclanthology.org/2021.findings-acl.386.pdf">paper</a>]       
         [<a href="publications/topic_relatedness.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li>
-        <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b><br>
+        <b>The Gem Benchmark: Natural Language Generation, its Evaluation and Metrics </b><br />
         [<a href="https://gem-benchmark.com/team">Team</a>]
         [<a href="https://arxiv.org/abs/2102.01672">paper</a>]
         [<a href="publications/gem.bib">bib</a>]
         [<a href="https://gem-benchmark.com">website</a>]
     </li>
-    <br>
+    <br />
     <li>
-        <b>WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization </b><br>
-        Faisal Ladhak, <b>Esin Durmus </b>, Claire Cardie and Kathleen McKeown. <br>
-        In Findings of EMNLP, 2020. <br>
+        <b>WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization </b><br />
+        Faisal Ladhak, <b>Esin Durmus </b>, Claire Cardie and Kathleen McKeown. <br />
+        In Findings of EMNLP, 2020. <br />
         [<a href="https://aclanthology.org/2020.findings-emnlp.360">paper</a>]
         [<a href="https://github.com/esdurmus/Wikilingua">data</a>]
         [<a href="publications/wikilingua.bib">bib</a>]
     </li>
-    <br>
-    <li><b>Exploring the Role of Argument Structure in Online Debate Persuasion</b><br>
-        Jialu Li, <b>Esin Durmus</b> and Claire Cardie.<br>
-        In Proceedings of EMNLP, 2020. <br>
+    <br />
+    <li><b>Exploring the Role of Argument Structure in Online Debate Persuasion</b><br />
+        Jialu Li, <b>Esin Durmus</b> and Claire Cardie.<br />
+        In Proceedings of EMNLP, 2020. <br />
         [<a href="https://aclanthology.org/2020.emnlp-main.716">paper</a>]
         [<a href="publications/arg_struc_pers.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li><b>FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive
-        Summarization</b><br>
-        <b>Esin Durmus</b>, He He and Mona Diab. <br>
+        Summarization</b><br />
+        <b>Esin Durmus</b>, He He and Mona Diab. <br />
         In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL),
-        2020. <br>
+        2020. <br />
         [<a href="https://aclanthology.org/2020.acl-main.454.pdf">paper</a>]
         [<a href="https://github.com/esdurmus/feqa">code</a>]
         [<a href="publications/feqa.bib">bib</a>]
     </li>
-    <br>
-    <li><b>The Role of Pragmatic and Discourse Context in Determining Argument Impact</b><br>
-        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
+    <br />
+    <li><b>The Role of Pragmatic and Discourse Context in Determining Argument Impact</b><br />
+        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br />
         In Proceedings of the Conference on Empirical Methods in Natural Language Processing
-        (EMNLP), 2019. <br>
+        (EMNLP), 2019. <br />
         [<a href="https://aclanthology.org/D19-1568/">paper</a>]
         [<a href="publications/arg_impact.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li>
         <b> Determining Relative Argument Specificity and Stance for Complex Argumentative
             Structures </b>
-        <br>
-        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br>
+        <br />
+        <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br />
         In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
-        (ACL), 2019. <br>
+        (ACL), 2019. <br />
         [<a href="https://aclanthology.org/P19-1456/">paper</a>]
         [<a href="publications/arg_struc.bib">bib</a>]
     </li>
-    <br>
+    <br />
     <li>
         <b>A Corpus for Modeling User and Language Effects in Argumentation on Online Debating</b>
-        <br>
-        <b>Esin Durmus</b> and Claire Cardie. <br>
+        <br />
+        <b>Esin Durmus</b> and Claire Cardie. <br />
         In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
-        (ACL), 2019. <br>
+        (ACL), 2019. <br />
         [<a href="https://aclanthology.org/P19-1057">paper</a>]
         [<a href="publications/debate_corpus.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
     </li>
-    <br>
+    <br />
     <li>
-        <b>Persuasion of the Undecided: Language vs. the Listener </b><br>
-        Liane Longpre, <b>Esin Durmus</b> and Claire Cardie. <br>
-        In Proceedings of the 6th Workshop in Argumentation Mining 2019. <br>
+        <b>Persuasion of the Undecided: Language vs. the Listener </b><br />
+        Liane Longpre, <b>Esin Durmus</b> and Claire Cardie. <br />
+        In Proceedings of the 6th Workshop in Argumentation Mining 2019. <br />
         [<a href="https://aclanthology.org/W19-4519">paper</a>]
         [<a href="publications/debate_undecided.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
     </li>
-    <br>
+    <br />
     <li>
-        <b> Modeling the Factors of User Success in Online Debate </b> <br>
-        <b>Esin Durmus</b> and Claire Cardie. <br>
-        In Proceedings of the World Wide Web Conference (WWW), 2019. <br>
+        <b> Modeling the Factors of User Success in Online Debate </b> <br />
+        <b>Esin Durmus</b> and Claire Cardie. <br />
+        In Proceedings of the World Wide Web Conference (WWW), 2019. <br />
         [<a href="https://dl.acm.org/doi/10.1145/3308558.3313676">paper</a>]
         [<a href="publications/modeling_factors.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
-        <br>
+        <br />
         <a href="https://news.cornell.edu/stories/2019/05/win-online-debates-social-networks-worth-thousand-words">
-            <b>Cornell Chronicle Story</b> </a><br>
+            <b>Cornell Chronicle Story</b> </a><br />
     </li>
-    <br>
+    <br />
     <li>
-        <b>Exploring the Role of Prior Beliefs for Argument Persuasion</b><br>
-        <b>Esin Durmus</b> and Claire Cardie. <br>
+        <b>Exploring the Role of Prior Beliefs for Argument Persuasion</b><br />
+        <b>Esin Durmus</b> and Claire Cardie. <br />
         In Proceedings of the Conference of the North American Chapter of the Association for
-        Computational Linguistics: Human Language Technologies (NAACL), 2018. <br>
+        Computational Linguistics: Human Language Technologies (NAACL), 2018. <br />
         [<a href="https://aclanthology.org/N18-1094/">paper</a>]
         [<a href="publications/prior_beliefs.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
     </li>
-    <br>
+    <br />
     <li>
         <b>Understanding the Effect of Gender and Stance on Opinion Expression in Debates on
-            "Abortion”.</b> <br>
-        <b>Esin Durmus</b> and Claire Cardie. <br>
+            "Abortion”.</b> <br />
+        <b>Esin Durmus</b> and Claire Cardie. <br />
         In Proceedings of PEOPLES2018 workshop (co-organized with NAACL) on computational modeling
-        of peoples opinions, personality, and emotions in social media. <br>
+        of peoples opinions, personality, and emotions in social media. <br />
         [<a href="https://aclanthology.org/W18-1110">paper</a>]
         [<a href="publications/abortion.bib">bib</a>]
     </li>
-    <br>
-    <li><b>Cornell Belief and Sentiment System at TAC 2016 </b><br>
+    <br />
+    <li><b>Cornell Belief and Sentiment System at TAC 2016 </b><br />
         Vlad Niculae, Kai Sun, Xilun Chen, Yao Cheng, Xinya Du,<b> Esin Durmus</b>, Arzoo Katiyar
-        and Claire Cardie. <br>
-        Text Analysis Conference (TAC), 2016. <br>
+        and Claire Cardie. <br />
+        Text Analysis Conference (TAC), 2016. <br />
         [<a href="publications/tac.pdf">paper</a>]
         [<a href="publications/tac.bib">bib</a>]
     </li>
-   
 </ol>
 
 <h2>Published Datasets</h2>
