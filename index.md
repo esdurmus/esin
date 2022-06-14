@@ -19,8 +19,6 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 <ol type="1">
     
-<ul>
-
     <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
         <br> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br>
@@ -171,9 +169,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         [<a href="publications/tac.pdf">paper</a>]
         [<a href="publications/tac.bib">bib</a>]
     </li>
-    
-</ul>
-
+   
 </ol>
 
 <h2>Published Datasets</h2>
