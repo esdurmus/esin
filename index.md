@@ -22,17 +22,21 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
         <br> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br>
-        To appear in ACL 2022 Main conference. <br> <br>
+        In Proceedings of ACL 2022 Main conference. <br> <br>
+        [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>]
     </li>
     <li>
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
         <br> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br>
-        To appear in ACL 2022 Main conference. <br><br>
+        In Proceedings of ACL 2022 Main conference. <br><br>
+        [<a href="https://aclanthology.org/2022.acl-long.100/">paper</a>]
+        
     </li>
     <li>
         <b>Language Modeling via Stochastic Processes</b>
         <br> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br>
-        To appear in ICLR 2022. <br><br>
+        In Proceedings of ICLR 2022. <br><br>
+        [<a href="https://openreview.net/pdf?id=pMQwKL1yctf">paper</a>]
     </li>
     <li>
         <b>On the Opportunities and Risks of Foundation Models</b><br>
