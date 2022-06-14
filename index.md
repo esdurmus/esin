@@ -17,7 +17,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
 
 <h2>Publications</h2>
 
-<ol type="1">
+<!-- <ol type="1">
     
     <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
@@ -197,7 +197,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li><b>Teaching Assistant </b> for Introduction to Web Design, Cornell University. Fall 2015.
     </li>
 </ul>
-
+ -->
 <h2>Industry Experience</h2>
 <ul>
     <li> Research Intern in Google AI Research. Summer 2020 - December 2020.</li>
