@@ -2,6 +2,8 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
+[<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
+
 
 Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto and Dan Jurafsky. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as understanding the dynamics of persuasion and detection of racism on social media platforms.
 
@@ -22,18 +24,24 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
         <br /> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
-        To appear in ACL 2022 Main conference. <br /> <br />
+        In Proceedings of ACL 2022 Main conference. <br />
+        [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>] <br />
     </li>
+    <br />
     <li>
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
         <br /> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br />
-        To appear in ACL 2022 Main conference. <br /><br />
+        In Proceedings of ACL 2022 Main conference. <br />
+        [<a href="https://aclanthology.org/2022.acl-long.100/">paper</a>] <br />
     </li>
+    <br />
     <li>
         <b>Language Modeling via Stochastic Processes</b>
         <br /> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br />
-        To appear in ICLR 2022. <br /><br />
+        In Proceedings of ICLR 2022. <br />
+        [<a href="https://openreview.net/forum?id=pMQwKL1yctf">paper</a>] <br />
     </li>
+     <br />
     <li>
         <b>On the Opportunities and Risks of Foundation Models</b><br />
         [<a href="https://arxiv.org/pdf/2108.07258.pdf">paper</a>]
@@ -194,7 +202,7 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
     <li><b>Teaching Assistant </b> for Introduction to Web Design, Cornell University. Fall 2015.
     </li>
 </ul>
- -->
+
 <h2>Industry Experience</h2>
 <ul>
     <li> Research Intern in Google AI Research. Summer 2020 - December 2020.</li>
