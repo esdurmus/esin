@@ -36,7 +36,6 @@ Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working 
         <b>Language Modeling via Stochastic Processes</b>
         <br> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br>
         In Proceedings of ICLR 2022. <br><br>
-        [<a href="https://openreview.net/pdf?id=pMQwKL1yctf">paper</a>]
     </li>
     <li>
         <b>On the Opportunities and Risks of Foundation Models</b><br>
