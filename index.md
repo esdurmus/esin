@@ -1,13 +1,17 @@
 <img src="esin.jpeg" alt="esin" style="width:10cm;"/>
 
+<p>**** I am on the job market! ****</p>
+
 **Contact:** esindurmus AT cs DOT stanford DOT edu
+
+<!-- <p style="color:red;">I am on the job market! </p> -->
 
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
 
 
 
-Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with  [<a href="https://thashim.github.io/">Tatsu Hashimoto</a>] and [<a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>]. I received my PhD from Cornell University where I was advised by [<a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>]. 
+Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsu Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
 
 My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Computational Social Science. I am interested in developing evaluation methods and metrics to study the reliability and social impact of NLP/AI systems. I also explore social applications of NLP, such as understanding the dynamics of persuasion and characteristics of constructive race conversations on social media platforms.
 
@@ -24,7 +28,26 @@ My research interests lie at the intersection of Natural Language Processing, Ma
 <h2>Publications</h2>
 
 <ol type="1">
-    <li>
+       <li>
+        <b>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</b>
+        <br /> Federico Bianchi, Pratyusha Kalluri,<b> Esin Durmus</b>, Faisal Ladhak, Myra Cheng, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan <br />
+       Preprint, 2022. <br />
+        [<a href="https://arxiv.org/abs/2211.03759">paper</a>] <br />
+    </li>
+   <br />
+     <li>
+        <b>Holistic Evaluation of Language Models</b>
+        Preprint, 2022. <br />
+        [<a href="https://arxiv.org/pdf/2211.09110.pdf">paper</a>] <br />
+    </li>
+        <br />
+       <li>
+        <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
+        <br /> Tianshu Wang, Faisal Ladhak,<b> Esin Durmus</b>, He He <br />
+       To appear in EMNLP 2022. <br />
+    </li>
+      <br />
+   <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
         <br /> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
         In Proceedings of ACL 2022 Main conference. <br />
