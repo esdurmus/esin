@@ -1,10 +1,6 @@
 <img src="esin.jpeg" alt="esin" style="width:10cm;"/>
 
-<p>**** I am on the job market! ****</p>
-
 **Contact:** esindurmus AT cs DOT stanford DOT edu
-
-<!-- <p style="color:red;">I am on the job market! </p> -->
 
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
