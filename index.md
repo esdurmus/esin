@@ -5,8 +5,11 @@
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
 
-Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with Tatsu Hashimoto and Dan Jurafsky. I received my PhD from Cornell University where I was advised by Claire Cardie. I am interested in text generation, evaluating generation systems and social applications of Natural Language Processing such as understanding the dynamics of persuasion and detection of racism on social media platforms.
 
+
+Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with  [<a href="https://thashim.github.io/">Tatsu Hashimoto</a>] and [<a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>]. I received my PhD from Cornell University where I was advised by [<a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>]. 
+
+My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Computational Social Science. I am interested in developing evaluation methods and metrics to study the reliability and social impact of NLP/AI systems. I also explore social applications of NLP, such as understanding the dynamics of persuasion and characteristics of constructive race conversations on social media platforms.
 
 <h2>News</h2>
 <ul>
