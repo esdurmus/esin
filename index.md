@@ -2,9 +2,9 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
-<!-- <p align="left">$${\color{red} \textrm{I am on the 2022-2023 academic job market!!!}}$$</p> -->
+<h3>${\color{red} \textrm{I am on the 2022-2023 academic job market!!!}}$</h3>
 
-<p> <b> *** I am on the 2022-2023 academic job market!!! *** </b> </p>
+<!-- <p> <b> *** I am on the 2022-2023 academic job market!!! *** </b> </p> -->
 
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
