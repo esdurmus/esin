@@ -2,10 +2,12 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
+<!-- <p align="left">$${\color{red} \textrm{I am on the 2022-2023 academic job market!!!}}$$</p> -->
+
+<p> <b> *** I am on the 2022-2023 academic job market!!! *** </b> </p>
+
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
-
-
 
 Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsu Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
 
@@ -32,7 +34,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     </li>
    <br />
      <li>
-        <b>Holistic Evaluation of Language Models</b>
+        <b>Holistic Evaluation of Language Models</b>  <br />
         Preprint, 2022. <br />
         [<a href="https://arxiv.org/pdf/2211.09110.pdf">paper</a>] <br />
     </li>
