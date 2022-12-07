@@ -2,7 +2,6 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
-<h3>**I am on the 2022-2023 academic job market!!!**</h3>
 
 
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
