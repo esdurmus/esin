@@ -2,8 +2,6 @@
 
 **Contact:** esindurmus AT cs DOT stanford DOT edu
 
-<!-- <h3>${\color{red} \textrm{I am on the 2022-2023 academic job market!!!}}$</h3> -->
-
 <h3>**I am on the 2022-2023 academic job market!!!**</h3>
 
 <!-- <p> <b> *** I am on the 2022-2023 academic job market!!! *** </b> </p> -->
