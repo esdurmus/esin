@@ -28,7 +28,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
 <ol type="1">
        <li>
         <b>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</b>
-        <br /> Federico Bianchi, Pratyusha Kalluri,<b> Esin Durmus</b>, Faisal Ladhak, Myra Cheng, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan <br />
+        <br /> Federico Bianchi, Pratyusha Kalluri, <b>Esin Durmus</b>, Faisal Ladhak, Myra Cheng, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan <br />
        Preprint, 2022. <br />
         [<a href="https://arxiv.org/abs/2211.03759">paper</a>] <br />
     </li>
@@ -41,27 +41,27 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         <br />
        <li>
         <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
-        <br /> Tianshu Wang, Faisal Ladhak,<b> Esin Durmus</b>, He He <br />
+        <br /> Tianshu Wang, Faisal Ladhak, <b>Esin Durmus</b>, He He <br />
        To appear in EMNLP 2022. <br />
     </li>
       <br />
    <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
-        <br /> <b> Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
+        <br /> <b>Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
         In Proceedings of ACL 2022 Main conference. <br />
         [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>] <br />
     </li>
     <br />
     <li>
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
-        <br /> Faisal Ladhak, <b> Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br />
+        <br /> Faisal Ladhak, <b>Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br />
         In Proceedings of ACL 2022 Main conference. <br />
         [<a href="https://aclanthology.org/2022.acl-long.100/">paper</a>] <br />
     </li>
     <br />
     <li>
         <b>Language Modeling via Stochastic Processes</b>
-        <br /> Rose E Wang, <b> Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br />
+        <br /> Rose E Wang, <b>Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br />
         In Proceedings of ICLR 2022. <br />
         [<a href="https://openreview.net/forum?id=pMQwKL1yctf">paper</a>] <br />
     </li>
@@ -97,7 +97,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     <br />
     <li>
         <b>WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization </b><br />
-        Faisal Ladhak, <b>Esin Durmus </b>, Claire Cardie and Kathleen McKeown. <br />
+        Faisal Ladhak, <b>Esin Durmus</b>, Claire Cardie and Kathleen McKeown. <br />
         In Findings of EMNLP, 2020. <br />
         [<a href="https://aclanthology.org/2020.findings-emnlp.360">paper</a>]
         [<a href="https://github.com/esdurmus/Wikilingua">data</a>]
