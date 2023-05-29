@@ -5,23 +5,11 @@
 
 
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
-[<a href="cv_esin_durmus.pdf">CV</a>]
+[<a href="cv_esin_durmus.pdf">CV</a>
 
-<h2>I am on the job market!</h2>
+Hi! I am Esin Durmus. I am a Research Scientist at Anthropic Societal Impacts team. Previously, I was a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsunori Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
 
-Hi! I am Esin Durmus. I am a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsunori Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
-
-My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Computational Social Science. I am interested in developing evaluation methods and metrics to study the **reliability** and **social impact of NLP/AI systems**. I also explore **social applications of NLP**, such as understanding the dynamics of persuasion and characteristics of constructive vs. toxic race conversations on social media platforms.
-
-<h2>News</h2>
-<ul>
-    <li> June 2020: I joined Stanford NLP as a Postdoc.</li>
-    <li> July 2020: I am co-teaching CS4740 in Fall 2020.</li>
-    <li> Jan 2020: I am interning at Google AI Research in Summer 2020.</li>
-    <li> Sep 2019: Selected as one of the Rising Stars in EECS 2019 by UIUC.</li>
-
-</ul>
-
+My research interests lie at the intersection of Natural Language Processing, Machine Learning, and Computational Social Science. I am interested in developing evaluation methods and metrics to study the **reliability** and **social impact of NLP/AI systems**.
 
 <h2>Publications</h2>
 
