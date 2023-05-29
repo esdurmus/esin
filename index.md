@@ -48,6 +48,13 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         [<a href="https://arxiv.org/pdf/2301.13848.pdf">paper</a>] <br />
     </li>
    <br />
+       <li>
+        <b>When Do Pre-Training Biases Propagate to Downstream Tasks? A Case Study in Text Summarization</b>
+        <br /> Faisal Ladhak, <b>Esin Durmus</b>, Mirac Suzgun, Tianyi Zhang, Dan Jurafsky, Kathleen Mckeown, Tatsunori B Hashimoto<br />
+       EACL, 2023. <br />
+        [<a href="https://aclanthology.org/2023.eacl-main.234/">paper</a>] <br />
+    </li>
+   <br />
     <li>
         <b>Evaluating Human-Language Model Interaction</b>  <br />
          Mina Lee, Megha Srivastava, Amelia Hardy, John Thickstun, <b>Esin Durmus</b>, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang <br/>
@@ -61,13 +68,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         [<a href="https://arxiv.org/pdf/2211.09110.pdf">paper</a>] <br />
     </li>
         <br />
-       <li>
-        <b>When Do Pre-Training Biases Propagate to Downstream Tasks? A Case Study in Text Summarization</b>
-        <br /> Faisal Ladhak, <b>Esin Durmus</b>, Mirac Suzgun, Tianyi Zhang, Dan Jurafsky, Kathleen Mckeown, Tatsunori B Hashimoto<br />
-       EACL, 2023. <br />
-        [<a href="https://aclanthology.org/2023.eacl-main.234/">paper</a>] <br />
-    </li>
-   <br />
+       
        <li>
         <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
         <br /> Tianshu Wang, Faisal Ladhak, <b>Esin Durmus</b>, He He <br />
