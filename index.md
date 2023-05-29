@@ -68,7 +68,6 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         [<a href="https://arxiv.org/pdf/2211.09110.pdf">paper</a>] <br />
     </li>
         <br />
-       
        <li>
         <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
         <br /> Tianshu Wang, Faisal Ladhak, <b>Esin Durmus</b>, He He <br />
