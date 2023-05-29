@@ -15,12 +15,46 @@ My research interests lie at the intersection of Natural Language Processing, Ma
 
 <ol type="1">
        <li>
+        <b>Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models</b>
+        <br /> Myra Cheng, <b>Esin Durmus</b>, Dan Jurafsky<br />
+       To appear at ACL 2023. <br />
+    </li>
+   <br />
+       <li>
+        <b>Tracing and Removing Data Errors in Natural Language Generation Datasets</b>
+        <br /> Faisal Ladhak, <b>Esin Durmus</b>, Tatsunori Hashimoto<br />
+       To appear at ACL 2023. <br />
+        [<a href="https://arxiv.org/abs/2212.10722">paper</a>] <br />
+    </li>
+   <br />
+       <li>
+        <b>Whose opinions do language models reflect?</b>
+        <br /> Shibani Santurkar, <b>Esin Durmus</b>, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto<br />
+       To appear at ICML 2023. <br />
+        [<a href="https://arxiv.org/abs/2303.17548">paper</a>] <br />
+    </li>
+       <br />
+       <li>
         <b>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</b>
         <br /> Federico Bianchi, Pratyusha Kalluri, <b>Esin Durmus</b>, Faisal Ladhak, Myra Cheng, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan <br />
-       Preprint, 2022. <br />
+      To appear at FaccT, 2023. <br />
         [<a href="https://arxiv.org/abs/2211.03759">paper</a>] <br />
     </li>
    <br />
+        <li>
+        <b>Benchmarking large language models for news summarization</b>
+        <br /> Tianyi Zhang, Faisal Ladhak, <b>Esin Durmus</b>, Percy Liang, Kathleen McKeown, Tatsunori B Hashimoto<br />
+       Preprint, 2023. <br />
+        [<a href="https://arxiv.org/pdf/2301.13848.pdf">paper</a>] <br />
+    </li>
+   <br />
+    <li>
+        <b>Evaluating Human-Language Model Interaction</b>  <br />
+         Mina Lee, Megha Srivastava, Amelia Hardy, John Thickstun, <b>Esin Durmus</b>, Ashwin Paranjape, Ines Gerard-Ursin, Xiang Lisa Li, Faisal Ladhak, Frieda Rong, Rose E Wang, Minae Kwon, Joon Sung Park, Hancheng Cao, Tony Lee, Rishi Bommasani, Michael Bernstein, Percy Liang <br/>
+        Preprint, 2022. <br />
+        [<a href="https://arxiv.org/abs/2212.09746">paper</a>] <br />
+    </li>
+        <br />
      <li>
         <b>Holistic Evaluation of Language Models</b>  <br />
         Preprint, 2022. <br />
@@ -28,9 +62,16 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     </li>
         <br />
        <li>
+        <b>When Do Pre-Training Biases Propagate to Downstream Tasks? A Case Study in Text Summarization</b>
+        <br /> Faisal Ladhak, <b>Esin Durmus</b>, Mirac Suzgun, Tianyi Zhang, Dan Jurafsky, Kathleen Mckeown, Tatsunori B Hashimoto<br />
+       EACL, 2023. <br />
+        [<a href="https://aclanthology.org/2023.eacl-main.234/">paper</a>] <br />
+    </li>
+   <br />
+       <li>
         <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
         <br /> Tianshu Wang, Faisal Ladhak, <b>Esin Durmus</b>, He He <br />
-       To appear in EMNLP 2022. <br />
+       EMNLP 2022. <br />
     </li>
       <br />
    <li>
@@ -38,6 +79,12 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         <br /> <b>Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
         In Proceedings of ACL 2022 Main conference. <br />
         [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>] <br />
+    </li>
+    <br />
+      <li>
+        <b>Gemv2: Multilingual nlg benchmarking in a single line of code</b><br />
+        2022. <br />
+        [<a href="https://arxiv.org/abs/2206.11249">paper</a>] <br />
     </li>
     <br />
     <li>
