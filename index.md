@@ -15,30 +15,44 @@ My research interests lie at the intersection of Natural Language Processing, Ma
 
 <ol type="1">
        <li>
+        <b>Towards Measuring the Representation of Subjective Global Opinions in Language Models</b>
+        <br /> <b>Esin Durmus</b>, Karina Nyugen, Thomas I Liao, Nicholas Schiefer, Amanda Askell, Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph, Liane Lovitt, Sam McCandlish, Orowa Sikder, Alex Tamkin, Janel Thamkul, Jared Kaplan, Jack Clark, Deep Ganguli<br />
+       Preprint, 2023. <br />
+       [<a href="https://arxiv.org/abs/2306.16388">paper</a>] <br />
+     </li>
+       <br />
+       <li>
+        <b>Opportunities and Risks of LLMs for Scalable Deliberation with Polis</b>
+        <br /> Christopher T Small, Ivan Vendrov, <b>Esin Durmus</b>, Hadjar Homaei, Elizabeth Barry, Julien Cornebise, Ted Suzman, Deep Ganguli, Colin Megill<br />
+       Preprint, 2023. <br />
+       [<a href="https://arxiv.org/abs/2306.11932">paper</a>] <br />
+     </li>
+      <br />
+       <li>
         <b>Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models</b>
         <br /> Myra Cheng, <b>Esin Durmus</b>, Dan Jurafsky<br />
-       To appear at ACL 2023. <br />
+       In Proceedings of ACL, 2023. <br />
        [<a href="https://arxiv.org/pdf/2305.18189.pdf">paper</a>] <br />
-    </li>
+     </li>
    <br />
        <li>
         <b>Tracing and Removing Data Errors in Natural Language Generation Datasets</b>
         <br /> Faisal Ladhak, <b>Esin Durmus</b>, Tatsunori Hashimoto<br />
-       To appear at ACL 2023. <br />
+       In Proceedings of ACL, 2023. <br />
         [<a href="https://arxiv.org/abs/2212.10722">paper</a>] <br />
     </li>
    <br />
        <li>
         <b>Whose opinions do language models reflect?</b>
         <br /> Shibani Santurkar, <b>Esin Durmus</b>, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto<br />
-       To appear at ICML 2023. <br />
+       In Proceedings of ICML, 2023. <br />
         [<a href="https://arxiv.org/abs/2303.17548">paper</a>] <br />
     </li>
        <br />
        <li>
         <b>Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale</b>
         <br /> Federico Bianchi, Pratyusha Kalluri, <b>Esin Durmus</b>, Faisal Ladhak, Myra Cheng, Debora Nozza, Tatsunori Hashimoto, Dan Jurafsky, James Zou, Aylin Caliskan <br />
-      To appear at FaccT, 2023. <br />
+      In Proceedings of FAccT, 2023. <br />
         [<a href="https://arxiv.org/abs/2211.03759">paper</a>] <br />
     </li>
    <br />
@@ -52,7 +66,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
        <li>
         <b>When Do Pre-Training Biases Propagate to Downstream Tasks? A Case Study in Text Summarization</b>
         <br /> Faisal Ladhak, <b>Esin Durmus</b>, Mirac Suzgun, Tianyi Zhang, Dan Jurafsky, Kathleen Mckeown, Tatsunori B Hashimoto<br />
-       EACL, 2023. <br />
+       In Proceedings of EACL, 2023. <br />
         [<a href="https://aclanthology.org/2023.eacl-main.234/">paper</a>] <br />
     </li>
    <br />
@@ -72,13 +86,13 @@ My research interests lie at the intersection of Natural Language Processing, Ma
        <li>
         <b>Improving Faithfulness by Augmenting Negative Summaries from Fake Documents</b>
         <br /> Tianshu Wang, Faisal Ladhak, <b>Esin Durmus</b>, He He <br />
-       EMNLP 2022. <br />
+        In Proceedings of EMNLP, 2022. <br />
     </li>
       <br />
    <li>
         <b>Spurious Correlations in Reference-Free Evaluation of Text Generation</b>
         <br /> <b>Esin Durmus</b>, Faisal Ladhak, Tatsunori Hashimoto <br />
-        In Proceedings of ACL 2022 Main conference. <br />
+        In Proceedings of ACL, 2022. <br />
         [<a href="https://aclanthology.org/2022.acl-long.102/">paper</a>] <br />
     </li>
     <br />
@@ -91,14 +105,14 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     <li>
         <b>Faithful or Extractive? On Mitigating the Faithfulness-Abstractiveness Trade-off in Abstractive Summarization</b>
         <br /> Faisal Ladhak, <b>Esin Durmus</b>, He He, Claire Cardie, Kathleen McKeown <br />
-        In Proceedings of ACL 2022 Main conference. <br />
+        In Proceedings of ACL, 2022. <br />
         [<a href="https://aclanthology.org/2022.acl-long.100/">paper</a>] <br />
     </li>
     <br />
     <li>
         <b>Language Modeling via Stochastic Processes</b>
         <br /> Rose E Wang, <b>Esin Durmus</b>, Noah Goodman, Tatsunori Hashimoto <br />
-        In Proceedings of ICLR 2022. <br />
+        In Proceedings of ICLR, 2022. <br />
         [<a href="https://openreview.net/forum?id=pMQwKL1yctf">paper</a>] <br />
     </li>
      <br />
@@ -150,8 +164,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     <li><b>FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive
         Summarization</b><br />
         <b>Esin Durmus</b>, He He and Mona Diab. <br />
-        In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL),
-        2020. <br />
+        In Proceedings of ACL, 2020. <br />
         [<a href="https://aclanthology.org/2020.acl-main.454.pdf">paper</a>]
         [<a href="https://github.com/esdurmus/feqa">code</a>]
         [<a href="publications/feqa.bib">bib</a>]
@@ -159,8 +172,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     <br />
     <li><b>The Role of Pragmatic and Discourse Context in Determining Argument Impact</b><br />
         <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br />
-        In Proceedings of the Conference on Empirical Methods in Natural Language Processing
-        (EMNLP), 2019. <br />
+        In Proceedings of EMNLP, 2019. <br />
         [<a href="https://aclanthology.org/D19-1568/">paper</a>]
         [<a href="publications/arg_impact.bib">bib</a>]
     </li>
@@ -170,8 +182,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
             Structures </b>
         <br />
         <b>Esin Durmus</b>, Faisal Ladhak and Claire Cardie. <br />
-        In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
-        (ACL), 2019. <br />
+        In Proceedings of ACL, 2019. <br />
         [<a href="https://aclanthology.org/P19-1456/">paper</a>]
         [<a href="publications/arg_struc.bib">bib</a>]
     </li>
@@ -180,8 +191,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         <b>A Corpus for Modeling User and Language Effects in Argumentation on Online Debating</b>
         <br />
         <b>Esin Durmus</b> and Claire Cardie. <br />
-        In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics
-        (ACL), 2019. <br />
+        In Proceedings of ACL, 2019. <br />
         [<a href="https://aclanthology.org/P19-1057">paper</a>]
         [<a href="publications/debate_corpus.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
@@ -211,8 +221,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
     <li>
         <b>Exploring the Role of Prior Beliefs for Argument Persuasion</b><br />
         <b>Esin Durmus</b> and Claire Cardie. <br />
-        In Proceedings of the Conference of the North American Chapter of the Association for
-        Computational Linguistics: Human Language Technologies (NAACL), 2018. <br />
+        In Proceedings of NAACL, 2018. <br />
         [<a href="https://aclanthology.org/N18-1094/">paper</a>]
         [<a href="publications/prior_beliefs.bib">bib</a>]
         [<a href="ddo.md">dataset</a>]
