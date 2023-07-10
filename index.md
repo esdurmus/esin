@@ -32,7 +32,7 @@ My research interests lie at the intersection of Natural Language Processing, Ma
         <b>Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models</b>
         <br /> Myra Cheng, <b>Esin Durmus</b>, Dan Jurafsky<br />
        In Proceedings of ACL, 2023. <br/>
-      $\color{green}{\text{Social Impact Award}}$<br/>
+      <b>Social Impact Award </b> <br/>
         [<a href="https://arxiv.org/pdf/2305.18189.pdf">paper</a>] <br />
      </li>
    <br />
