@@ -5,7 +5,7 @@
 [<a href="https://scholar.google.com/citations?user=cq2R_uoAAAAJ&hl=en">Google Scholar</a>] [<a href="https://www.semanticscholar.org/author/Esin-Durmus/41152329">Semantic Scholar</a>]
 [<a href="cv_esin_durmus.pdf">CV</a>]
 
-Hi! I am Esin Durmus. I am a Research Scientist at <a href="https://www.anthropic.com/"> Anthropic </a> Societal Impacts team. Previously, I was a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsunori Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
+Hi! I am Esin Durmus. I am a Research Scientist at <a href="https://www.anthropic.com/"> Anthropic </a>. Previously, I was a Postdoctoral Scholar at Stanford NLP group working with  <a href="https://thashim.github.io/">Tatsunori Hashimoto</a> and <a href="https://web.stanford.edu/~jurafsky/"> Dan Jurafsky</a>. I received my PhD from Cornell University where I was advised by <a href="https://www.cs.cornell.edu/home/cardie/">Claire Cardie</a>. 
 
 I work on evaluating the safety and societal impact of large language models. In particular, I am interested in understanding how these models may impact our society and how can we build models that are safe and helpful.  I am currently working on the following reserch directions: 
 <ul>
